@@ -56,7 +56,7 @@ Este projeto é uma API GraphQL personalizada para armazenar informações sobre
     yarn dev:test
   ```
 
-O servidor estará em execução em http://localhost:4000/. Você pode acessar o GraphQL, uma interface de teste para consultas GraphQL, nessa URL.
+O servidor estará em execução em http://localhost:4000/.
 
 ### Passos para Executar o Frontend
 
