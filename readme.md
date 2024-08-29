@@ -1,5 +1,8 @@
 # Oficina - GraphQL
 
+![Captura de tela 2024-08-29 103403](https://github.com/user-attachments/assets/cdba0436-9e6d-43c1-b70f-59727d1002ee)
+
+
 Este projeto é uma API GraphQL personalizada para armazenar informações sobre seu portfólio, incluindo experiências profissionais, projetos, habilidades e outros detalhes relevantes. A API permite realizar consultas (queries) e alterações (mutations) em um servidor backend, enquanto o frontend exibe as informações dinamicamente.
 
 ## Tecnologias Utilizadas
